@@ -6,8 +6,7 @@ Application for workshop
 `TODO://` Changes_color_and_displays_custom_text
 
 ### App Walk-though
-
-<img src="https://i.imgur.com/S5tfF8q.gif" width=200><br>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/XdDHOUE"><a href="//imgur.com/XdDHOUE"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
